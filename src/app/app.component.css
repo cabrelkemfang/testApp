@@ -1,0 +1,51 @@
+.space12{
+    margin-top: 50px;
+    margin-bottom: 32%;
+}
+
+.space123{
+    margin-top: 50px;
+    margin-bottom: 35%;
+    
+}
+
+h1,.title{
+    color: crimson
+}
+
+h2{
+    color: green
+}
+
+.center123 {
+    padding:27%;
+  }
+
+  .centerxd {
+    padding:27%;
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+  }
+
+  .centerxd1 {
+    padding:27%;
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+  
+  .item:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+.footer{
+  background-color:#013220;
+  color: white;
+}
+
+.card-title{
+  color:#00008b;
+}
