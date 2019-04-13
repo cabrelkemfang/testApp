@@ -17,7 +17,7 @@ interface Marker {
     styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-    title = 'omnipaid';
+    title = 'SWAG-PD';
     time: string;
 
 
