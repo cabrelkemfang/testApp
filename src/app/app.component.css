@@ -1,51 +1,58 @@
-.space12{
-    margin-top: 50px;
-    margin-bottom: 32%;
+.space12 {
+  margin-top: 50px;
+  margin-bottom: 32%;
 }
 
-.space123{
-    margin-top: 50px;
-    margin-bottom: 35%;
-    
+.space123 {
+  margin-top: 50px;
+  margin-bottom: 35%;
 }
 
-h1,.title{
-    color: crimson
+h1, .title {
+  color: crimson
 }
 
-h2{
-    color: green
+h2 {
+  color: green
 }
 
 .center123 {
-    padding:27%;
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
 
-  .centerxd {
-    padding:27%;
-    -moz-transform: scale(1.5);
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5);
-  }
+.centerxd {
+  width: 700px;
+}
 
-  .centerxd1 {
-    padding:27%;
-    -moz-transform: scale(1.2);
-    -webkit-transform: scale(1.2);
-    transform: scale(1.2);
-  }
-  
-  .item:hover img {
-    -moz-transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-  }
+.centerxd1 {
+  width: 700px;
+}
 
-.footer{
-  background-color:#013220;
+.item:hover img {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.footer {
+  background-color: #00008b;
   color: white;
 }
 
-.card-title{
-  color:#00008b;
+.card-title, .color {
+  color: #00008b;
+}
+
+.btn {
+  background-color: #00008b;
+}
+
+.div {
+  padding-top: 25px;
+}
+
+.active-link {
+  background-color: rgb(170, 204, 238);
 }
