@@ -43,6 +43,7 @@ h2 {
 
 .card-title, .color {
   color: #00008b;
+  text-align: center;
 }
 
 .btn {
